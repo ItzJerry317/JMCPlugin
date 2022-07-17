@@ -1,0 +1,12 @@
+name: JMCPluginNew
+version: '${project.version}'
+main: jmc.itzjerry.ItzJerry
+api-version: 1.17
+authors: [ ItzJerry ]
+description: Jerry Plugin New
+website: server.itzjerry.top:20161
+commands:
+  announce:
+    description: 设置公告
+  checkping:
+    description: 看看你的ping是多少
